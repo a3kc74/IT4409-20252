@@ -1,0 +1,46 @@
+============================================================
+           WEB TECH BEGINNER ROADMAP (PHASE 1)
+============================================================
+
+[TASK 1: THE SKELETON (HTML)]
+Goal: Build the structure of a document.
+- Create a file named 'index.html'.
+- Primary Tags to Learn:
+    * <h1> to <h6> : Headings (Titles)
+    * <p>           : Paragraphs (Text)
+    * <ul> / <li>   : Unordered lists (Bullet points)
+    * <a>           : Anchors (Links to other sites)
+    * <img>         : Images (Visual content)
+
+[TASK 2: THE PAINT JOB (CSS)]
+Goal: Design and layout (Making it look like Apple GUI).
+- Create a file named 'style.css'.
+- Concepts to Master:
+    * The Box Model : Margin, Border, Padding, and Content.
+    * Flexbox       : How to align items horizontally or vertically.
+    * Selectors     : How to target specific HTML tags to change colors.
+    * Hex Codes     : Using colors like #007AFF (Blue) or #FFFFFF (White).
+
+[TASK 3: THE BRAINS (JAVASCRIPT)]
+Goal: Add interactivity and logic.
+- Create a file named 'script.js'.
+- Key Actions:
+    * DOM Manipulation : Changing HTML text using code.
+    * Event Listeners  : Making a button "do something" when clicked.
+    * Variables        : Storing data (let, const).
+
+------------------------------------------------------------
+[ESSENTIAL TOOLKIT]
+------------------------------------------------------------
+1. Code Editor    : VS Code (Highly Recommended)
+2. Browser Debug  : Press F12 in Chrome/Firefox to see the code.
+3. Version Control: Git (To save "checkpoints" of your work).
+4. Terminal       : Your Linux command line (bash/zsh).
+
+------------------------------------------------------------
+[PRO-TIP]
+------------------------------------------------------------
+Development is 20% writing code and 80% figuring out why 
+the code you wrote isn't working. Don't memorize; 
+understand the logic and search for the syntax!
+============================================================
